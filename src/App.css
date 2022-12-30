@@ -1,0 +1,29 @@
+
+.Content{
+  margin-left: 30%;
+  margin-right: 30%;
+  padding-left: 14%;
+  font-size: larger;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: rgba(1, 9,8, .3);
+  border-radius: 15px;
+}
+p{
+  display: inline-block;
+}
+
+.title{
+  margin-right: 10px;
+  font-weight: 700;
+}
+body{
+background-color: aqua;
+}
+.img{
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(87, 87, 86);
+ border-radius: 4px;
+  
+
+}
